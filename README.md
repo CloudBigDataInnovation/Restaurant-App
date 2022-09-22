@@ -1,5 +1,5 @@
 # Restaurant-App
-## Auther: Bui The Cuong
+## Author: Bui The Cuong
  ##--------------Module/function
  0. Create menu price dictionray and define tax value
  1. Design module of menu select ( use recursion if invalid menu selected until correct menu select)-> menu option
