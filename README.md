@@ -10,6 +10,6 @@
  1. Loop for menu selection until customer finish-> create a selected menu list
  2. Go to Tip menu module to get tip percentage/ custom tip ($)
 #### Billing
- 4. Loop through selected menu list and accumulate total prices from menu price dictionary
- 5. Calculate total price after tax
- 6. Calculate total price after tip
+ 3. Loop through selected menu list and accumulate total prices from menu price dictionary
+ 4. Calculate total price after tax
+ 5. Calculate total price after tip
