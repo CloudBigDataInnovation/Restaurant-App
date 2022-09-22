@@ -7,7 +7,7 @@
  5. Calculate total price after tax
  6. Calculate total price after tip
 '''
-# Author: Cuong Bui
+# Author: Cuong Bui - Cloud Big Data Innovation
 menu_price_dict = {'1': 25, '2': 7, '3': 12, '4':13, '5':23}
 tax = 0.13
 def menu_select():
