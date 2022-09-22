@@ -13,3 +13,4 @@
  3. Loop through selected menu list and accumulate total prices from menu price dictionary
  4. Calculate total price after tax
  5. Calculate total price after tip
+![image](https://user-images.githubusercontent.com/650495/191814953-0737413b-68a5-441a-8ba3-52bdd2c4e1bd.png)
